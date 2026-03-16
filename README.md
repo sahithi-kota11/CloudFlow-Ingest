@@ -21,4 +21,20 @@ A production-ready, event-driven data pipeline built on AWS. This project automa
 This project was a deep dive into **Architecting for Reliability.** I successfully resolved technical challenges including `UnicodeDecodeError` management and `NoSuchKey` debugging, reinforcing the importance of observability in cloud-native applications.
 
 ---
+
+---
+
+## 🖼️ Project Gallery
+
+### 1. Data Ingestion (Amazon S3)
+![S3 Bucket](S3.jpg)
+*The automated entry point where raw text files are uploaded.*
+
+### 2. Serverless Logic (AWS Lambda)
+![Lambda Function](Lambda.jpg)
+*Python logic handling the data transformation and error logging.*
+
+### 3. Structured Output (Amazon DynamoDB)
+![DynamoDB Table](DynamoDB.jpg)
+*The final database showing successfully processed records.*
 *Created by Sahithi Kota as part of my AWS Cloud Engineering journey.*
