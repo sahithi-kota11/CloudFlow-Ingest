@@ -27,14 +27,14 @@ This project was a deep dive into **Architecting for Reliability.** I successful
 ## 🖼️ Project Gallery
 
 ### 1. Data Ingestion (Amazon S3)
-![S3 Bucket](S3.jpg)
+![S3 Bucket](S3.png)
 *The automated entry point where raw text files are uploaded.*
 
 ### 2. Serverless Logic (AWS Lambda)
-![Lambda Function](Lambda.jpg)
+![Lambda Function](Lambda.png)
 *Python logic handling the data transformation and error logging.*
 
 ### 3. Structured Output (Amazon DynamoDB)
-![DynamoDB Table](DynamoDB.jpg)
+![DynamoDB Table](DynamoDB.png)
 *The final database showing successfully processed records.*
 *Created by Sahithi Kota as part of my AWS Cloud Engineering journey.*
